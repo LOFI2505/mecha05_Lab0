@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['timer_5fcb_0',['timer_cb',['../main_8py.html#aa47776e12831efa4fa7b9a7c7bc6168f',1,'main']]]
+  ['plot_5ffunction_0',['plot_function',['../interface_8py.html#a8202bd6c246138556ddfbc742e89dba5',1,'interface']]]
 ];

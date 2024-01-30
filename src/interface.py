@@ -1,5 +1,5 @@
 """!
-@file main.py
+@file interface.py
 This file contains code which plots the step response from the NUCLEO and compares it with the expected output
 (aka simulated data). The file follows the format of the lab0 example given on Canvas.
 

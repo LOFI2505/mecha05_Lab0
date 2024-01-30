@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['step_5fresponse_0',['step_response',['../main_8py.html#a5390f434d8028cc5f7694128db810a41',1,'main']]]
+  ['plot_5ffunction_0',['plot_function',['../interface_8py.html#a8202bd6c246138556ddfbc742e89dba5',1,'interface']]]
 ];
